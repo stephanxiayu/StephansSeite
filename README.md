@@ -1,6 +1,6 @@
 # Hi there, I'm **Stephan**, Flutter Dev 👋
 
-- 🌱 I'm currently learning **Flutter & Fullstack Web Development**!
+- 🌱 I'm a **Flutter & Fullstack Web Developer**!
 - 💬 Ask me about **Flutter, Clean Architecture & TDD**.
 - 📫 How to reach me: [stephan_granzow@web.de](mailto:stephan_granzow@web.de)
 
