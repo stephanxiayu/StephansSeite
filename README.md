@@ -1,5 +1,3 @@
-# StephansSeite
-
 # Hi there, I'm **Stephan**, Flutter Dev 👋
 
 - 🌱 I'm currently learning **Flutter & Fullstack Web Development**!
