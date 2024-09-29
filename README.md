@@ -5,6 +5,22 @@
 - 📫 How to reach me: [stephan_granzow@web.de](mailto:stephan_granzow@web.de)
 
 ---
+## 🔨 I'm building with...
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+![Bloc](https://img.shields.io/badge/-Flutter%20Bloc-087E8B?logo=bloc&logoColor=white&style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-4CAF50?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/-Mockito-FFCA28?logo=mockito&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+     
 
 ## 🚀 **Work Experience**
 
@@ -27,16 +43,6 @@
 🔹 Created digital solutions for the homeless.  
 🔹 Developed **user-friendly apps** to aid needy individuals.
 
----
-
-## 🔧 **Skills**
-
-I specialize in **Flutter App development**, implementing **clean architecture** and **test-driven development (TDD)**. I also integrate **Firebase push notifications** and utilize **Google Maps** in applications.
-
-Additionally, I am a **full-stack web developer** with proficiency in **React**, **Node.js**, and experience with **Nginx Server**, **Next.js**, **Postman**, and **Firebase**.
-
----
-
 
 ## 🎓 **Education**
 
@@ -47,8 +53,6 @@ Additionally, I am a **full-stack web developer** with proficiency in **React**,
 - 🏫 **Berlin Kolleg** - Abitur (2011 - 2014)  
 - 🏫 **Bildungszentrum des Handels** - Fachverkäufer (2001 - 2003)
 
----
-
 ## 💪 **Volunteer Work**
 
 - 🌍 **Manara** - Street Worker & Managing Director (2020 - 2024)  
@@ -56,15 +60,6 @@ Additionally, I am a **full-stack web developer** with proficiency in **React**,
 - 🌍 **City Mission Cold Bus Driver** - Berliner Stadtmission (2011 - 2014)  
 - 🌍 **City Station Volunteer** - Berliner Stadtmission (2012 - 2014)  
 - 🌍 **Child Care Worker** - Berliner Stadtmission (2013)
-
----
-
-## 💻 **Tech Stack**
-
-- 🔥 **Languages**: `Flutter`, `Node`, `Next.js`, `TypeScript`  
-- 🛠️ **Tools**: `React`, `Node.js`, `Git`, `Nginx`, `Postman`, `Firebase`
-
----
 
 ## 🌐 **Find me elsewhere**
 
